@@ -13,7 +13,7 @@ export const projects = [
       description:
         "Making your dating experience safer with face-to-face.",
       image: "./images/circuit-speed-dating.gif",
-      link: "www.circuit-speed-dating.com",
+      link: "https://circuit-speed-dating.herokuapp.com/",
     },
     {
       title: "Function Fitness App",
@@ -29,7 +29,7 @@ export const projects = [
       description:
         "Apples, bananas, milk, bre- ... Oh gee - I need a to do list!",
       image: "./images/project-4.gif",
-      link: "https://pythonbootcamp.com",
+      link: "https://determined-raman-4ee324.netlify.app",
     },
   ];
 
