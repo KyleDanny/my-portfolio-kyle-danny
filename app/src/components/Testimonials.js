@@ -2,6 +2,6 @@ import React from "react"
 
 export default function Testimonials() {
     return (
-        <div></div>
+        <div> Testing div that needs to be filled out </div>
     )
 }
