@@ -28,7 +28,7 @@ export const projects = [
       subtitle: "React Hooks & Redux State Manager",
       description:
         "Apples, bananas, milk, bre- ... Oh gee - I need a to do list!",
-      image: "./images/project-4.gif",
+      image: "./images/to-do-list.gif",
       link: "https://to-do-list-kdj.netlify.app",
     },
   ];
