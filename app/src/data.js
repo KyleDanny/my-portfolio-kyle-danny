@@ -5,7 +5,7 @@ export const projects = [
       description:
         "Your very own informative & interactive map of the world!",
       image: "./images/countries-app.gif",
-      link: "https://reactbootcamp.com",
+      link: "https://countries-mapbox-app.netlify.app",
     },
     {
       title: "::Circuit Speed Dating",
@@ -24,12 +24,12 @@ export const projects = [
       link: "https://personal-trainer-kyledanny.herokuapp.com/",
     },
     {
-      title: "Epic Todo App",
-      subtitle: "React Hooks",
+      title: "To-do App",
+      subtitle: "React Hooks & Redux State Manager",
       description:
         "Apples, bananas, milk, bre- ... Oh gee - I need a to do list!",
       image: "./images/project-4.gif",
-      link: "https://determined-raman-4ee324.netlify.app",
+      link: "https://to-do-list-kdj.netlify.app",
     },
   ];
 
