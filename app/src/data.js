@@ -1,7 +1,15 @@
 export const projects = [
     {
-      title: "{COUNT}RIES",
+      title: "Device Management System",
       subtitle: "MERN Stack",
+      description:
+        "A system built for our company, </salt> to manage their devices among students & inhouse staff.",
+      image: "./images/slap.png",
+      link: "https://slap-public.herokuapp.com/",
+    },
+    {
+      title: "{COUNT}RIES",
+      subtitle: "Express, React & Node",
       description:
         "Your very own informative & interactive map of the world!",
       image: "./images/countries-app.gif",
