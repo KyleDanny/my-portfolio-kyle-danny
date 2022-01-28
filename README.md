@@ -6,6 +6,7 @@ I'm a Full Stack Software Developer who transitioned from a background in Film &
 Check me out: [here](https://kyledanny.com)
 
 ## Tech Stack 
+* JavaScript
 * React
 * Tailwindcss
 
