@@ -57,9 +57,9 @@ export default function Contact() {
                 codingkyle92@gmail.com
               </a>
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
-                PHONE
+                
               </h2>
-              <p className="leading-relaxed">+47 907 17 791</p>
+              <p className="leading-relaxed"></p>
             </div>
           </div>
         </div>
